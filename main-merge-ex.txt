@@ -1,0 +1,2 @@
+hello from mainhello from conflict-new
+new edit for rebase
